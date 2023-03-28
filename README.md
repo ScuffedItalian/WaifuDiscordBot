@@ -8,5 +8,18 @@ You have to run the bot, I don't host it so you better know what you're doing!
 1. Clone this repo
 2. Copy your bot token
 3. Paste the bot token into __**token.txt**__
-4. Run the cide
+4. Run the code
 *voila*
+
+# Commands
+* /waifucuddle
+* /waifubully
+* /waifunom
+* /waifukiss
+* /aboutme
+
+# Bot Status
+* NOTE --> Keep watch on this repo as I might update it with more commands and stuff!
+* Version: 1.0.0
+* Activity: Work-In-Progress
+* Completion: 27%
