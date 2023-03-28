@@ -3,6 +3,15 @@
 Waifu Bot is a bot developed by **ScuffedItalian**
 You have to run the bot, I don't host it so you better know what you're doing!
 
+## NOTICE
+You will need discord.js in your project.
+
+## Project setup
+1. make a new folder
+2. run npm init
+3. go through the steps (THERE WILL BE A STEP WHERE IT ASKS YOU TO NAME THE JS FILE, KEEP IT AS index.js)
+4. run npm i discord.js (I believe that is it)
+
 ## SIMPLE setup
 * NOTE --> I don't go through the entire bot setup, just program setup
 1. Clone this repo
